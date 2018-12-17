@@ -1,0 +1,11 @@
+Instructions for CSD 3939 Coursework 1 on Travelling Salesman Problem
+
+
+N/B:
+* The code was gotten from:
+* Lee Jacobson's article on  "Applying a genetic algorithm to the traveling salesman problem" published on (20/08/2012).
+Available at: http://www.theprojectspot.com/tutorial-post/applying-a-genetic-algorithm-to-the-travelling-salesman-problem/5 (Retrieved: 29/11/2018).
+
+1. Open the project in Netbeans or Eclipse
+2. Navigate to the source folder and open the TSP_GA.java file and run it
+3.
